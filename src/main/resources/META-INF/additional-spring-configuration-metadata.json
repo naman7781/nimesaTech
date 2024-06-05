@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "aws.secretAccessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretAccessKey'"
+  },
+  {
+    "name": "aws.accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.accessKeyId'"
+  },
+  {
+    "name": "aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.region'"
+  },
+  {
+    "name": "aws.accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.accessKeyId'"
+  },
+  {
+    "name": "aws.secretAccessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretAccessKey'"
+  }
+]}
